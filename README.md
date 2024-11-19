@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Chorok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorokKim&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/chorokKim/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choji98)](https://solved.ac/choji98/)
